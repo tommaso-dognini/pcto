@@ -1,29 +1,33 @@
 {
   "files": {
-    "main.css": "/pcto/static/css/main.5a9cfdf6.css",
-    "main.js": "/pcto/static/js/main.5858d33b.js",
-    "static/media/best4food.png": "/pcto/static/media/best4food.1b4f1415a3851cf2f039.png",
+    "main.css": "/pcto/static/css/main.8bcd31c0.css",
+    "main.js": "/pcto/static/js/main.83815564.js",
+    "static/media/statistica.jpg": "/pcto/static/media/statistica.9795371a66f026e1eba1.jpg",
+    "static/media/youth.jpg": "/pcto/static/media/youth.3d6a9e6e5e454d797a38.jpg",
+    "static/media/energia.jpg": "/pcto/static/media/energia.7abe7cbb719fd9554a98.jpg",
+    "static/media/cv.jpg": "/pcto/static/media/cv.e84d727858554bcb9773.jpg",
+    "static/media/bicoccaLab.jpg": "/pcto/static/media/bicoccaLab.adf6f0d4e10b0f462965.jpg",
     "static/media/sicurezza.jpg": "/pcto/static/media/sicurezza.56375f0e329f911f885f.jpg",
-    "static/media/astropi.png": "/pcto/static/media/astropi.a2e026e08e258ae48b03.png",
-    "static/media/about.webp": "/pcto/static/media/about.2c2bda9a46420b56d2b5.webp",
+    "static/media/food.jpg": "/pcto/static/media/food.c83ba82f6b3694819089.jpg",
+    "static/media/progettoTerra.jpg": "/pcto/static/media/progettoTerra.21618ab730df91010102.jpg",
+    "static/media/astropi.png": "/pcto/static/media/astropi.e31ce43642919db717d1.png",
+    "static/media/orientamento.jpg": "/pcto/static/media/orientamento.aeb4d12620554c2b623a.jpg",
+    "static/media/copertinaHero.jpg": "/pcto/static/media/copertinaHero.e0146455e09413026472.jpg",
     "static/media/testimonial-2.webp": "/pcto/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
-    "static/media/statistica.png": "/pcto/static/media/statistica.d1d826045403fbca0c77.png",
-    "static/media/p5.webp": "/pcto/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/io.jpeg": "/pcto/static/media/io.4bd46f927a2b8776c8bc.jpeg",
     "static/media/raspberry.png": "/pcto/static/media/raspberry.51dbe6827f05b6f1e319.png",
     "static/media/testimonial-3.webp": "/pcto/static/media/testimonial-3.677360499dd5a97f022a.webp",
     "static/media/services.svg": "/pcto/static/media/services.0d43785bd1f41e4d0371.svg",
     "static/media/portfolio.svg": "/pcto/static/media/portfolio.bff8b39169bade93c32b.svg",
     "static/media/testimonials.svg": "/pcto/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
-    "static/media/p6.webp": "/pcto/static/media/p6.26fcf4320bfa0eacc03a.webp",
     "static/media/testimonial-1.webp": "/pcto/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
-    "static/media/p2.webp": "/pcto/static/media/p2.987c883e6e66df8a1228.webp",
     "static/media/about.svg": "/pcto/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/pcto/index.html",
-    "main.5a9cfdf6.css.map": "/pcto/static/css/main.5a9cfdf6.css.map",
-    "main.5858d33b.js.map": "/pcto/static/js/main.5858d33b.js.map"
+    "main.8bcd31c0.css.map": "/pcto/static/css/main.8bcd31c0.css.map",
+    "main.83815564.js.map": "/pcto/static/js/main.83815564.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a9cfdf6.css",
-    "static/js/main.5858d33b.js"
+    "static/css/main.8bcd31c0.css",
+    "static/js/main.83815564.js"
   ]
 }
