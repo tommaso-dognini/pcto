@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pcto/static/css/main.8bcd31c0.css",
-    "main.js": "/pcto/static/js/main.83815564.js",
+    "main.css": "/pcto/static/css/main.8eff660a.css",
+    "main.js": "/pcto/static/js/main.826e3a58.js",
     "static/media/statistica.jpg": "/pcto/static/media/statistica.9795371a66f026e1eba1.jpg",
     "static/media/youth.jpg": "/pcto/static/media/youth.3d6a9e6e5e454d797a38.jpg",
     "static/media/energia.jpg": "/pcto/static/media/energia.7abe7cbb719fd9554a98.jpg",
@@ -17,17 +17,13 @@
     "static/media/io.jpeg": "/pcto/static/media/io.4bd46f927a2b8776c8bc.jpeg",
     "static/media/raspberry.png": "/pcto/static/media/raspberry.51dbe6827f05b6f1e319.png",
     "static/media/testimonial-3.webp": "/pcto/static/media/testimonial-3.677360499dd5a97f022a.webp",
-    "static/media/services.svg": "/pcto/static/media/services.0d43785bd1f41e4d0371.svg",
-    "static/media/portfolio.svg": "/pcto/static/media/portfolio.bff8b39169bade93c32b.svg",
-    "static/media/testimonials.svg": "/pcto/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
     "static/media/testimonial-1.webp": "/pcto/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
-    "static/media/about.svg": "/pcto/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/pcto/index.html",
-    "main.8bcd31c0.css.map": "/pcto/static/css/main.8bcd31c0.css.map",
-    "main.83815564.js.map": "/pcto/static/js/main.83815564.js.map"
+    "main.8eff660a.css.map": "/pcto/static/css/main.8eff660a.css.map",
+    "main.826e3a58.js.map": "/pcto/static/js/main.826e3a58.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bcd31c0.css",
-    "static/js/main.83815564.js"
+    "static/css/main.8eff660a.css",
+    "static/js/main.826e3a58.js"
   ]
 }
